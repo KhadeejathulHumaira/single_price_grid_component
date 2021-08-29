@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]](https://github.com/KhadeejathulHumaira/single_price_grid_component)
+- Solution URL: [Github](https://github.com/KhadeejathulHumaira/single_price_grid_component)
 - Live Site URL: [Website](https://humairagridprice.netlify.app/)
 
 ## My process
